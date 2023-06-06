@@ -11,6 +11,6 @@
     ?>
 </head>
 <body>
-    <h1>This is Amir Theme</h1>
+    <a href="https://github.com/amirfrahani">My Github</a>
 </body>
 </html>
